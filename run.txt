@@ -1,2 +1,0 @@
-first install node 16 & nvm1 from link provided
-then npm install and npm start
